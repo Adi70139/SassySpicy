@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Adi70139/Foody/static/css/main.8cc7c8c1.css",
+    "main.js": "/Adi70139/Foody/static/js/main.debf94db.js",
+    "index.html": "/Adi70139/Foody/index.html",
+    "main.8cc7c8c1.css.map": "/Adi70139/Foody/static/css/main.8cc7c8c1.css.map",
+    "main.debf94db.js.map": "/Adi70139/Foody/static/js/main.debf94db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cc7c8c1.css",
+    "static/js/main.debf94db.js"
+  ]
+}
